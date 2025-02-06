@@ -30,12 +30,12 @@ dependencies = [
   "altair >= 4.2.0, < 5",
   "immutabledict",
   "joblib",
-  "numpy >= 1.26, < 2",
-  "pandas >= 2.2, < 3",
-  "scipy >= 1.12.0, < 1.13",
-  "tensorflow >= 2.16, < 2.17",
+  "numpy >= 1.26.4, < 2",
+  "pandas >= 2.2.2, < 3",
+  "scipy >= 1.31.1",
+  "tensorflow >= 2.17.1",
   "tensorflow-probability >= 0.24, < 0.25",
-  "tf-keras >= 2.16, < 2.17",
+  "tf-keras >= 2.17",
   "xarray",
 ]
 
